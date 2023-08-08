@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2C03EA54-BFA6-4B29-BABD-2D6AEBAFF2A8}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NTdemo/Properties/launchSettings.json">
+    <Files>
+      <File FileName="NTdemo/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="NTdemo/Models/ErrorViewModel.cs" Line="6" Column="1" />
+      <File FileName="NTdemo/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="NTdemo/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="NTdemo/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NTdemo" expanded="True">
+            <Node name="NTdemo" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NTdemo PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
