@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pQdEb0ViY/Pga1Njtanymgv4WeLfPuzrIt8fYTzFPsvculGKTe0W3c2DCuYlGFjmnVVByU8mtDef3/7nz/amNQ==",
+  "dgSpecHash": "0jTvsXnPBr8Z4Xpj6hNzJWAAyC5T87lhM5WVacAAcSoCdNHUX+J+DLnQc21wlOLIteUu2J11MjChY6VU1Q/9ng==",
   "success": true,
-  "projectFilePath": "/Users/phuch/Projects/NTdemo/NTdemo/NTdemo.csproj",
+  "projectFilePath": "/Users/phuch/Projects/NTDemo/NTdemo/NTdemo.csproj",
   "expectedPackageFiles": [
     "/Users/phuch/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/phuch/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

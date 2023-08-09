@@ -3467,11 +3467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/phuch/Projects/NTdemo/NTdemo/NTdemo.csproj",
+      "projectUniqueName": "/Users/phuch/Projects/NTDemo/NTdemo/NTdemo.csproj",
       "projectName": "NTdemo",
-      "projectPath": "/Users/phuch/Projects/NTdemo/NTdemo/NTdemo.csproj",
+      "projectPath": "/Users/phuch/Projects/NTDemo/NTdemo/NTdemo.csproj",
       "packagesPath": "/Users/phuch/.nuget/packages/",
-      "outputPath": "/Users/phuch/Projects/NTdemo/NTdemo/obj/",
+      "outputPath": "/Users/phuch/Projects/NTDemo/NTdemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/phuch/.nuget/NuGet/NuGet.Config"
@@ -3481,7 +3481,7 @@
       ],
       "sources": {
         "/usr/local/share/dotnet/library-packs": {},
-        "/usr/local/share/dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3534,7 +3534,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
       }
     }
   }

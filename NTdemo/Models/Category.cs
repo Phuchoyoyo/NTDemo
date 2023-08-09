@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace NTdemo.Models
 {
-	public class Catalorg
+	public class Category
 	{
 		[Key]
 		public int Id { get; set; }
