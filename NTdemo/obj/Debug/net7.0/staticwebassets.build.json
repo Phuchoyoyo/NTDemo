@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wkU7KxNbwm5L0VRtPtq1vyeQ/Wp5cDDcYvPr2P/xliA=",
+  "Hash": "F9Do39be5bvzTCCH7Vv1gUGnbpk5Sri5/UUTJbw/u5U=",
   "Source": "NTdemo",
   "BasePath": "_content/NTdemo",
   "Mode": "Default",
@@ -49,40 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/phuch/Projects/NTDemo/NTdemo/obj/Debug/net7.0/scopedcss/projectbundle/NTdemo.bundle.scp.css"
-    },
-    {
-      "Identity": "/Users/phuch/Projects/NTDemo/NTdemo/wwwroot/appsettings.Development.json",
-      "SourceId": "NTdemo",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/phuch/Projects/NTDemo/NTdemo/wwwroot/",
-      "BasePath": "_content/NTdemo",
-      "RelativePath": "appsettings.Development.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/appsettings.Development.json"
-    },
-    {
-      "Identity": "/Users/phuch/Projects/NTDemo/NTdemo/wwwroot/appsettings.json",
-      "SourceId": "NTdemo",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/phuch/Projects/NTDemo/NTdemo/wwwroot/",
-      "BasePath": "_content/NTdemo",
-      "RelativePath": "appsettings.json",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/appsettings.json"
     },
     {
       "Identity": "/Users/phuch/Projects/NTDemo/NTdemo/wwwroot/css/site.css",

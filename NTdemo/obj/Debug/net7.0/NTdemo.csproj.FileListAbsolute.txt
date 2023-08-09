@@ -71,5 +71,5 @@
 /Users/phuch/Projects/NTdemo/NTdemo/obj/Debug/net7.0/NTdemo.pdb
 /Users/phuch/Projects/NTdemo/NTdemo/obj/Debug/net7.0/NTdemo.genruntimeconfig.cache
 /Users/phuch/Projects/NTdemo/NTdemo/obj/Debug/net7.0/ref/NTdemo.dll
-/Users/phuch/Projects/NTDemo/NTdemo/bin/Debug/net7.0/wwwroot/appsettings.Development.json
-/Users/phuch/Projects/NTDemo/NTdemo/bin/Debug/net7.0/wwwroot/appsettings.json
+/Users/phuch/Projects/NTDemo/NTdemo/bin/Debug/net7.0/appsettings.Development.json
+/Users/phuch/Projects/NTDemo/NTdemo/bin/Debug/net7.0/appsettings.json

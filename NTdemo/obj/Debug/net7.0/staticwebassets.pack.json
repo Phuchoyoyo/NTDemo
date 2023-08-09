@@ -5,14 +5,6 @@
       "PackagePath": "staticwebassets/NTdemo.bundle.scp.css"
     },
     {
-      "Id": "/Users/phuch/Projects/NTDemo/NTdemo/wwwroot/appsettings.Development.json",
-      "PackagePath": "staticwebassets/appsettings.Development.json"
-    },
-    {
-      "Id": "/Users/phuch/Projects/NTDemo/NTdemo/wwwroot/appsettings.json",
-      "PackagePath": "staticwebassets/appsettings.json"
-    },
-    {
       "Id": "/Users/phuch/Projects/NTDemo/NTdemo/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
